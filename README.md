@@ -41,7 +41,8 @@
 
 - Block Diagaram
 
-![Block diagram](Image/risc-v rv32i-47.jpg)
+![risc-v rv32i-47](https://github.com/user-attachments/assets/0d38109a-828e-4713-a727-f238f6038ecf)
+
 
 - Top module
 
