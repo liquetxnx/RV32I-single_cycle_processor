@@ -1,12 +1,12 @@
 # RV32I-single_cycle_processor
 
-# 0.TL/
+# 0.TL
 
--Core : RV32I single cycle processor (Verilog)
--Support : R, I, S, B, J, U type
--Addressing : PC is byte-addressed otherwise, IM and Memory are word-addressed
--Verification : Directed and self-checking ([N] test cases excuted by tb_cpu.v)
--Run : iverilog && vvp command
+- Core : RV32I single cycle processor (Verilog)
+- Support : R, I, S, B, J, U type
+- Addressing : PC is byte-addressed otherwise, IM and Memory are word-addressed
+- Verification : Directed and self-checking ([N] test cases excuted by tb_cpu.v)
+- Run : iverilog && vvp command
 
 ## Environment :
 -	Icarus Verilog
