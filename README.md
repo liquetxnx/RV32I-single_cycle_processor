@@ -41,6 +41,8 @@
 
 - Block Diagaram
 
+![Block diagram](Image/risc-v rv32i-47.jpg)
+
 - Top module
 
 	-Control unit
@@ -58,7 +60,6 @@
 		-ALU
 
 		-ALU_Control
-
 
 		-Immediate Generation(ImmGen)
 
